@@ -57,5 +57,3 @@ This Power BI project provides an in-depth analysis of Contoso's sales data. The
 ## Conclusion
 This Power BI dashboard empowers stakeholders with actionable insights to improve decision-making. By leveraging Power BI Desktop, Power Query, and DAX, this project effectively uncovers sales trends, customer behavior, and product performance.
 
-## Repository
-All project files, including the Power BI report (.pbix) and visuals, are available in this repository.
